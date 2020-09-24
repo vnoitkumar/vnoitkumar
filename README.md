@@ -26,10 +26,7 @@
 https://github.com/codeSTACKr/codeSTACKr
 ➡️ [more blog posts...][blog] -->
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img class="github-stats" alt="vnoitkumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vnoitkumar&show_icons=true&hide_border=true" />
-</details>
+<img class="github-stats" alt="vnoitkumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vnoitkumar&show_icons=true" />
 
 [website]: https://vnoit.com
 [blog]: https://blog.vnoit.com
