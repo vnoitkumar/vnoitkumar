@@ -16,11 +16,7 @@
 [<img align="left" alt="Vnoit | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="Vnoit | LinkedIn" width="24px" src="./so-icon.svg" />][stackoverflow]
 
-<br /><br />
-
-
-
-
+<br />
 <!-- ### Languages / Frameworks / Libraries / Tools:
 ### 📕 Latest Blog Posts
 https://github.com/codeSTACKr/codeSTACKr
