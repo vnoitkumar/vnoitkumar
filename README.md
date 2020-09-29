@@ -8,6 +8,16 @@
 - 🔭 I’m currently working on creating posts on what I learn and u can check it out [here](https://blog.vnoit.com/posts)
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate with other JavaScript developer
+- 🔖 I am passionate about writing and sharing what I’ve learned via [blog.vnoit.com](https://blog.vnoit.com)
+
+
+### Busy working at Projects
+- 📌 [Browser tab Sync](https://tab-sync.vnoit.com/) - Changing the theme in one tab will also change in all the other open tabs of the same website using a service worker. Inspired by seeing this YT video
+- 📌 [Create React Component With Jss](https://www.npmjs.com/package/create-react-component-with-jss) - An npm package to create react component using CLI
+- 📌 [Case Converter](https://case-converter.vnoit.com) - A simple case converter
+- 📌 [JS executer](https://jsexecuter.vnoit.com) - Online JavaScript Editor
+- 📌 [Show Password](https://chrome.google.com/webstore/detail/show-password/gjelmlndokgfcnodogpcijjpoggcdnak) - A Google Chrome extension, Show password when clicking the extension icon
+- 📌 [Google Search Open in New Tab](https://chrome.google.com/webstore/detail/google-search-open-in-new/eejfhilgmkohahomgoidbbjodlancndk) - A Google Chrome extension, Opens Google search result in new tab
 
 ### Connect with me:
 
