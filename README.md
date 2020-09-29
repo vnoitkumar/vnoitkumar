@@ -11,7 +11,7 @@
 - 🔖 I am passionate about writing and sharing what I’ve learned via [blog.vnoit.com](https://blog.vnoit.com)
 
 
-### Busy working at Projects
+### Side Projects
 - 📌 [Browser tab Sync](https://tab-sync.vnoit.com/) - Changing the theme in one tab will also change in all the other open tabs of the same website using a service worker
 - 📌 [Create React Component With Jss](https://www.npmjs.com/package/create-react-component-with-jss) - An npm package to create react component using CLI
 - 📌 [Case Converter](https://case-converter.vnoit.com) - A simple case converter
