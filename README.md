@@ -28,11 +28,6 @@
 
 <br /><br />
 
-<!-- ### Languages / Frameworks / Libraries / Tools:
-### 📕 Latest Blog Posts
-https://github.com/codeSTACKr/codeSTACKr
-➡️ [more blog posts...][blog] -->
-
 <img class="github-stats" alt="vnoitkumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vnoitkumar&show_icons=true" />
 
 [website]: https://vnoit.com
